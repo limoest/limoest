@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20AM%20LIMO!!!!;WELCOME%20TO%20MY%20GITHUB&font=Roboto" />
+# <img src="https://readme-typing-svg.herokuapp.com/?lines=I%20AM%20LIMO!!!!;Welcome%20to%20limo's%20Github%20Homepage&font=Roboto" />
 
 # <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/limoest&right_color=red" />👀🐒 ！！！！
 
