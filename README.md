@@ -5,3 +5,5 @@
 ![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)![image](https://img.shields.io/badge/good-limo-green)
 
 ![](https://activity-graph.herokuapp.com/graph?username=limoest&theme=github)
+
+https://stats.justsong.cn/api/github?username=limoest&theme=dark
